@@ -1,0 +1,241 @@
+.frame-6-logo {
+  position: absolute;
+  top: calc(50% + 113px);
+  left: calc(50% + 135px);
+  border-radius: var(--br-base);
+  width: 13.13rem;
+  height: 10rem;
+  overflow: hidden;
+}
+.frame-child,
+.frame-inner,
+.frame-item,
+.vector-icon {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-base);
+  height: 15.38rem;
+}
+.frame-child {
+  width: 100%;
+  right: 0;
+  left: 0;
+  background-color: var(--color-seagreen);
+}
+.frame-inner,
+.frame-item,
+.vector-icon {
+  mix-blend-mode: screen;
+}
+.frame-item {
+  left: 2.61rem;
+  width: 25.51rem;
+}
+.frame-inner,
+.vector-icon {
+  left: 0;
+  width: 28.13rem;
+}
+.vector-icon {
+  width: 23.42rem;
+}
+.github-invertocat-logo-1-icon,
+.logo-1-icon {
+  position: absolute;
+  top: calc(50% + 10px);
+  left: calc(50% + 112px);
+  width: 7.06rem;
+  height: 7.06rem;
+  overflow: hidden;
+}
+.logo-1-icon {
+  top: calc(50% - 123px);
+  left: calc(50% - 211px);
+  width: 7.13rem;
+  height: 7.13rem;
+}
+.en-mi-github {
+  margin: 0;
+}
+.actualmente-soy-alumno-container,
+.en-mi-github-container {
+  position: absolute;
+  top: 10.31rem;
+  left: 0.88rem;
+  display: inline-block;
+  width: 19.75rem;
+  height: 2.94rem;
+}
+.actualmente-soy-alumno-container {
+  top: 1.56rem;
+  left: 8.88rem;
+  width: 18.38rem;
+  height: 3.06rem;
+}
+.frame-5-estudiosproyectos,
+.rectangle-parent {
+  position: absolute;
+  top: calc(50% - 123px);
+  left: calc(50% - 225px);
+  width: 28.13rem;
+  height: 15.38rem;
+}
+.frame-5-estudiosproyectos {
+  top: calc(50% + 27px);
+  left: calc(50% - 345px);
+  border-radius: var(--br-base);
+  overflow: hidden;
+}
+.frame-child1,
+.frame-child2,
+.rectangle-div {
+  position: absolute;
+  left: 0;
+  border-radius: var(--br-base);
+}
+.rectangle-div {
+  width: 100%;
+  top: 0;
+  right: 0;
+  background-color: var(--color-seagreen);
+  height: 21.88rem;
+}
+.frame-child1,
+.frame-child2 {
+  width: 13.13rem;
+  mix-blend-mode: screen;
+}
+.frame-child1 {
+  top: 13.21rem;
+  height: 8.66rem;
+}
+.frame-child2 {
+  top: 0;
+  height: 21.88rem;
+}
+.foto {
+  position: absolute;
+  top: 10.44rem;
+  left: 5.38rem;
+}
+.rectangle-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 13.13rem;
+  height: 21.88rem;
+}
+.frame-3-opentowork-child,
+.frame-4-foto {
+  position: absolute;
+  border-radius: var(--br-base);
+  width: 13.13rem;
+  overflow: hidden;
+}
+.frame-4-foto {
+  top: calc(50% - 273px);
+  left: calc(50% + 135px);
+  height: 21.88rem;
+}
+.frame-3-opentowork-child {
+  top: 0;
+  left: 0;
+  height: 4.63rem;
+}
+.disponibilidad-inmediata {
+  position: absolute;
+  top: 1.56rem;
+  left: 3.63rem;
+}
+.frame-3-opentowork {
+  position: absolute;
+  top: calc(50% - 83px);
+  left: calc(50% - 105px);
+  border-radius: var(--br-base);
+  backdrop-filter: blur(4px);
+  width: 13.13rem;
+  height: 4.63rem;
+  overflow: hidden;
+  font-size: 0.75rem;
+}
+.frame-child4,
+.frame-child5,
+.frame-child6 {
+  position: absolute;
+  top: 0;
+  border-radius: var(--br-base);
+}
+.frame-child4 {
+  width: 100%;
+  right: 0;
+  left: 0;
+  background-color: var(--color-seagreen);
+  height: 10rem;
+}
+.frame-child5,
+.frame-child6 {
+  mix-blend-mode: screen;
+}
+.frame-child5 {
+  left: 5rem;
+  width: 19.38rem;
+  height: 15.75rem;
+}
+.frame-child6 {
+  left: 0;
+  width: 13.13rem;
+  height: 10rem;
+}
+.div {
+  position: absolute;
+  top: calc(50% - 8px);
+  left: calc(50% - 18px);
+}
+.frame-2-enlaces,
+.rectangle-container {
+  position: absolute;
+  width: 13.13rem;
+  height: 10rem;
+  overflow: hidden;
+}
+.rectangle-container {
+  top: 0;
+  left: 0;
+}
+.frame-2-enlaces {
+  top: calc(50% - 273px);
+  left: calc(50% - 105px);
+  border-radius: var(--br-base);
+}
+.frame-1-intro-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 13.13rem;
+  height: 16.5rem;
+}
+.nombre-puesto {
+  position: absolute;
+  top: 7.38rem;
+  left: 4.63rem;
+}
+.frame-1-intro {
+  position: absolute;
+  top: calc(50% - 273px);
+  left: calc(50% - 345px);
+  border-radius: var(--br-base);
+  width: 13.13rem;
+  height: 16.5rem;
+  overflow: hidden;
+}
+.desktop-1 {
+  position: relative;
+  background-color: #333;
+  width: 100%;
+  height: 64rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

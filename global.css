@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-sm: 0.88rem;
+
+  /* Colors */
+  --color-black: #000;
+  --color-seagreen: rgba(26, 161, 121, 0.5);
+
+  /* border radiuses */
+  --br-base: 16px;
+}
