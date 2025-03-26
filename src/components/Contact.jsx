@@ -9,7 +9,7 @@ const ContactSection = () => (
         href="https://www.linkedin.com/in/marcofs/"
         target="_blank"
         rel="noopener noreferrer"
-        className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-green-700"
+        className="bg-blue-600 text-white px-6 py-3 rounded-lg hover:bg-blue-700"
       >
         LinkedIn
       </a>
