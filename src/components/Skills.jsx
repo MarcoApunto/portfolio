@@ -6,8 +6,8 @@ const SkillSection = () => {
 
   const skillCategories = {
     'Lenguajes': ['C', 'HTML5', 'CSS', 'JavaScript'],
-    'MERN Stack++': ['Express.js', 'Node.js', 'React', 'MongoDB', 'MySQL', 'Cypress', 'JWT', 'moongose', 'sequelize'],
-    'Herramientas': ['Git', 'VS Code', 'Postman', 'Docker']
+    'MERN Stack++': ['Express.js', 'Node.js', 'React', 'MongoDB', 'MySQL', 'Cypress', 'JWT', 'Jest  ', 'Swagger'],
+    'Herramientas': ['Git', 'VS Code', 'Postman', 'Docker', 'JMeter']
   };
 
   return (
@@ -15,7 +15,7 @@ const SkillSection = () => {
       <h2 className="text-3xl font-bold text-center mb-8">
         Habilidades
       </h2>
-      <div className="flex justify-center space-x-4 mb-8">
+      <div className="flex justify-center text-center space-x-4 mb-8">
         {Object.keys(skillCategories).map(category => (
           <button
             key={category}

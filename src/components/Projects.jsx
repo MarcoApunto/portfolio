@@ -19,7 +19,7 @@ const ProjectSection = () => {
           <div key={project.name} className="bg-white p-6 rounded-lg shadow-md">
             <h3 className="text-2xl font-semibold">{project.name}</h3>
             <p className="mt-2">{project.description}</p>
-            <div className="flex space-x-2 mt-4">
+            <div className="flex flex-wrap space-x-2 mt-4 gap-2">
               {project.technologies.map(tech => (
                 <span key={tech} className="bg-green-100 text-green-800 px-2 py-1 rounded">
                   {tech}
