@@ -7,7 +7,7 @@ const SkillSection = () => {
   const skillCategories = {
     'Lenguajes': ['C', 'HTML5', 'CSS', 'JavaScript'],
     'MERN Stack++': ['Express.js', 'Node.js', 'React', 'MongoDB', 'MySQL', 'Cypress', 'JWT', 'moongose', 'sequelize'],
-    'Herramientas': ['Git', 'Visual Studio Code', 'Postman', 'Docker']
+    'Herramientas': ['Git', 'VS Code', 'Postman', 'Docker']
   };
 
   return (
